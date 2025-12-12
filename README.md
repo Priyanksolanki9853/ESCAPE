@@ -40,8 +40,8 @@ Inspired by genre classics like *Subway Surfers*, players control a Prince sprin
 | Key | Action |
 | :--- | :--- |
 | **A / D** (or Arrows) | Move Left / Right |
-| **Space** | Jump |
-| **S** | Slide / Roll |
+| **W** | Forward |
+| **S** | Slide |
 | **Esc** | Pause Game |
 
 ## 🛠️ Tech Stack
